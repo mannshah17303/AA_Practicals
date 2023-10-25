@@ -1,3 +1,4 @@
+package AA_Practicals.Lab1;
 import java.util.Random;
 
 public class RandomizedQuickSort {

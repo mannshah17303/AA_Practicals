@@ -1,4 +1,4 @@
-package Lab6;
+package AA_Practicals.Lab6;
 
 public class SumOfSubset{
    public static boolean dynamicKnapsack(int p[], int w[], int c, int v) {

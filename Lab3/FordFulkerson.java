@@ -1,4 +1,4 @@
-package Lab3;
+package AA_Practicals.Lab3;
 
 import java.util.LinkedList;
 import java.util.Queue;

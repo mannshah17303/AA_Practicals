@@ -1,4 +1,4 @@
-package Lab2;
+package AA_Practicals.Lab2;
 
 import java.util.Random;
 import java.util.Scanner;

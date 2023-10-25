@@ -1,4 +1,4 @@
-package Lab4;
+package AA_Practicals.Lab4;
 
 import java.util.*;
 
